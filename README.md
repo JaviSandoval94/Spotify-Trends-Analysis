@@ -1,3 +1,4 @@
+![bass-guitar](https://github.com/JaviSandoval94/Proyecto-1-Spotify/blob/master/pexels-freestocksorg-96380.jpg)
 # Introduction
 We are a consulting company for independent artists. We are helping a new Mexican artist to launch their next hit in Mexico and Latin America, which is planned to be released in last quarter 2020 in the Spotify platform, to remain in the Top 50 Chart throughout the next year.
 
